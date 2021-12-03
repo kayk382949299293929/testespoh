@@ -1,10 +1,6 @@
 {
   "name": "LOLIZITA-BOT",
   "version": "5.0.0",
-  "engines": {
-    "node": "14.x"
-  }
-}
   "description": "kiba não",
   "main": "index.js",
   "directories": {
