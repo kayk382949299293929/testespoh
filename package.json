@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "sh lolizita.sh",
+    "start": "node index.js",
     "test": "echo \"Erro ao iniciar\" && exit 1"
   },
   "keywords": [
